@@ -1,0 +1,6 @@
+@Luftborn.Server_HostAddress = http://localhost:5216
+
+GET {{Luftborn.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
